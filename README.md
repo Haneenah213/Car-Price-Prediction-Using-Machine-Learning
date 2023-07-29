@@ -1,1 +1,4 @@
 # Car-Price-Prediction-Using-Machine-Learning
+Multiple Linear Regression is a type of linear regression that involves predicting a dependent variable based on multiple independent variables. In this technique, the relationship between the dependent variable and the independent variables is modeled using a linear equation.
+In the project involves Predicting the price of a car based on various features such as the car based on various features such as the car model, age, mileage, and other relevant factors. The goal of this project is to build a machine learning model that can accurately predict the price of a car given a set of input features.
+For this Project, I utilized two datasets - One for training the machine for testing its performance. We can predict the price of a car based on various factors such as model,year,mileage and more. 
